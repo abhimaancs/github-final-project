@@ -55,4 +55,5 @@ SI = (Principal × Rate × Time) / 100
 ABHIMAAN C S
 
 x.
+Minor typo fix for merge demonstration.
 
